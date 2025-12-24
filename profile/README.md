@@ -1,4 +1,4 @@
-# 🎵 Hymn AI
+# 🎵 MyMusic AI
 
 **Creating the future of music, one prompt at a time.**
 
@@ -8,7 +8,7 @@ Transform your words into original songs with AI-powered music generation. From 
 
 ## ✨ What We're Building
 
-Hymn AI uses cutting-edge **diffusion models** to generate studio-quality music from simple text prompts. Whether you need vocals, instrumentals, or full productions—we've got you covered.
+MyMusic AI uses cutting-edge **diffusion models** to generate studio-quality music from simple text prompts. Whether you need vocals, instrumentals, or full productions—we've got you covered.
 
 🎸 **Any Genre** · 🎤 **AI Vocals** · 🎹 **Full Productions** · ⚡ **Lightning Fast**
 
